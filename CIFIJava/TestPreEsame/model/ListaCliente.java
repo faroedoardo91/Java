@@ -1,0 +1,56 @@
+package model;
+
+public class ListaCliente {
+
+	private String nome, cognome;
+	private int anni;
+	private String categoria;
+	
+	public ListaCliente(String nome, String cognome, int anni, String categoria) {
+		super();
+		this.nome = nome;
+		this.cognome = cognome;
+		this.anni = anni;
+		this.categoria = categoria;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public String getCognome() {
+		return cognome;
+	}
+
+	public void setCognome(String cognome) {
+		this.cognome = cognome;
+	}
+
+	public int getAnni() {
+		return anni;
+	}
+
+	public void setAnni(int anni) {
+		this.anni = anni;
+	}
+
+	public String getCategoria() {
+		return categoria;
+	}
+
+	public void setCategoria(String categoria) {
+		this.categoria = categoria;
+	}
+
+	@Override
+	public String toString() {
+		return "Clienti: " + nome + ", " + cognome + ", anni " + anni + ", " + categoria
+				+ "]";
+	}
+	
+		
+}

@@ -1,0 +1,13 @@
+package model;
+
+import java.util.Scanner;
+
+public class TestSoftware {
+
+	public static void main(String[] args) {
+		
+		SoftwarePalestra Orange = new SoftwarePalestra(1, "Edoardo", 30);
+
+	}
+
+}

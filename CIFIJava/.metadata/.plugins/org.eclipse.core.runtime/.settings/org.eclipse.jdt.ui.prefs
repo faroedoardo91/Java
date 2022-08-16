@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.Enum"><rhs name\="enumeratori.Priorita"/><rhs name\="model.settoreVenditore"/><rhs name\="model.settoreMeccanico"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="enumeratori.Priorita"/><rhs name\="model.settoreVenditore"/><rhs name\="model.settoreMeccanico"/></lhs><lhs name\="enumeratori.Priorita"><rhs name\="enumeratori.Priorita"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.InterruptedException"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="classi.CartePrepagate"><rhs name\="classi.CartePrepagate"/></lhs><lhs name\="java.text.NumberFormat"><rhs name\="java.text.DecimalFormat"/></lhs><lhs name\="java.text.Format"><rhs name\="java.text.DecimalFormat"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.text.DecimalFormat"/></lhs><lhs name\="java.text.DecimalFormat"><rhs name\="java.text.DecimalFormat"/></lhs><lhs name\="model.settoreVenditore"><rhs name\="model.settoreVenditore"/></lhs><lhs name\="model.settoreMeccanico"><rhs name\="model.settoreMeccanico"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.exception.name=e
+org.eclipse.jdt.ui.formatterprofiles.version=21
+org.eclipse.jdt.ui.gettersetter.use.is=true
+org.eclipse.jdt.ui.overrideannotation=true
+spelling_locale_initialized=true
+typefilter_migrated=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

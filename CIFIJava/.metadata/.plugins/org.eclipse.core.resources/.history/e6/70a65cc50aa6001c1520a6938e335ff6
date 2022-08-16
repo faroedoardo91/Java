@@ -1,0 +1,9 @@
+package model;
+
+public class ListaCliente {
+
+	public ListaCliente() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

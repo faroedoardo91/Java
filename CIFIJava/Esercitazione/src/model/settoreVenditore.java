@@ -1,0 +1,5 @@
+package model;
+
+public enum settoreVenditore {
+	ORTOFRUTTA,ALIMENTARI,CARROZZERIA,SEXYSHOP,FARMACIA,ELETTRONICA;
+}
